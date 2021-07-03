@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.success{
+  color:rgb(5, 105, 5);
+}
+.fail{
+  color:rgb(179, 24, 24);
+}
