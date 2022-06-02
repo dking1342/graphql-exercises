@@ -1,2 +1,4 @@
-# graphql-exercises
-A variety of exercises using graphql and/or apollo
+# GraphQL Exercises
+
+## Explanation
+Branches showcase different exercises that use graphql or apollo.
